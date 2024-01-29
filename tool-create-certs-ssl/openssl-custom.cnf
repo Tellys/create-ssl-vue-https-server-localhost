@@ -18,5 +18,5 @@ CN = localhost
 subjectAltName = @alt_names
 
 [alt_names]
-DNS.1 = *.localhost
-DNS.2 = localhost
+DNS.1 = *.localhost:8080
+DNS.2 = localhost:8080
