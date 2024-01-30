@@ -6,6 +6,10 @@ A ideia é facilitar a criação de certificados para desenvolvedores que utiliz
 
 Siga as etapas para instalar o script. Não pule nenhuma etapa.
 
+
+![Exemplo de página com ssl ativo](https://raw.githubusercontent.com/Tellys/create-ssl-vue-https-server-localhost/master/images/create-ssl-vue-https-server-localhost.png)
+
+
 #### 1) Dentro da pasta raiz do seu projeto, clone o projeto
 
 ```
@@ -92,3 +96,13 @@ module.exports=defineConfig({
 ```
 npm run serve
 ```
+
+#### 9) Watch video turorial
+https://youtu.be/vt5fpE0bzSY
+
+[![Assista ao vídeo - https://youtu.be/vt5fpE0bzSY](https://raw.githubusercontent.com/Tellys/create-ssl-vue-https-server-localhost/master/images/youtube-print.png)](https://youtu.be/vt5fpE0bzSY)
+
+
+#### 10) More Information
+Para maiores informações, acesse o link [Tutorial Vue3 + SSL HTTPS - https://www.conteudopertinente.com.br/vue3/create-ssl-vue-3-with-https-server-localhost-test/](https://www.conteudopertinente.com.br/vue3/create-ssl-vue-3-with-https-server-localhost-test/)
+
