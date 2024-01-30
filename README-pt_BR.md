@@ -50,7 +50,7 @@ bash generate.sh
 ## 5) Crie um aplicativo VUE3
 
 ```
-cd vue3-ssl
+cd ../vue3-ssl
 npm i
 ```
 

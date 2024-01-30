@@ -8,8 +8,8 @@ module.exports = defineConfig({
     server: {
       type: 'https',
       options: {
-        key: fs.readFileSync('./vue3-ssl/certs/server.key'),
-        cert: fs.readFileSync('./vue3-ssl//certs/server.crt'),
+        key: fs.readFileSync('./certs/server.key'),
+        cert: fs.readFileSync('./certs/server.crt'),
       }
     },
     client: {

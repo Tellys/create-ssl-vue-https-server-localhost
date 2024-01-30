@@ -50,7 +50,7 @@ bash generate.sh
 ## 5) Create a VUE3 app
 
 ```
-cd vue3-ssl
+cd ../vue3-ssl
 npm i
 ```
 
@@ -90,5 +90,5 @@ module.exports = defineConfig({
 #### 8) Run NPM server
 
 ```
-npm run serves
+npm run serve
 ```
